@@ -24,3 +24,8 @@
   </p>
 </div>
 
+
+
+## About Bo-Boxes
+Bo-Boxes is a python module created using [Reter](https://github.com/ZackeryRSmith/Reter/). Bo-Boxes allows the end-user to create all types of combo boxes in the Unix Shell working on almost every terminal. Bo-Boxes has a end-user theming system allowing you to customize all the combo-boxes looks.
+
