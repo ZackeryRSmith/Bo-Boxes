@@ -1,5 +1,8 @@
 <!-- TOP OF README ANCHOR -->
 <a name="top"></a>
+# Yet to be added to PYPI!
+There is still many features and bug fixes I want to implement before I actully release this project for use. This is more of a *proof of concept* and to display some of the features in a project called [Reter](https://github.com/ZackeryRSmith/Reter).
+
 
 <!-- PROJECT LOGO -->
 <br />
