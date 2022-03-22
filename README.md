@@ -13,10 +13,10 @@
   <p align="center">
     Unix combo boxes have never been easier to create!
     <br />
-    <a href="https://github.com/ZackeryRSmith/Bo-Boxes/"><strong>View images! »</strong></a>
+    <a href="https://github.com/ZackeryRSmith/Bo-Boxes/#Screenshots"><strong>View images! »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ZackeryRSmith/Bo-Boxes/">View Examples</a>
+    <a href="https://github.com/ZackeryRSmith/Bo-Boxes/blob/main/test.py">View Example</a>
     ·
     <a href="https://github.com/ZackeryRSmith/Bo-Boxes/issues">Report Bug</a>
     ·
